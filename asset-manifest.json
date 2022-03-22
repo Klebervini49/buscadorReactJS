@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscadorReactJS/static/css/main.a0826d61.css",
+    "main.js": "/buscadorReactJS/static/js/main.abb10878.js",
+    "index.html": "/buscadorReactJS/index.html",
+    "main.a0826d61.css.map": "/buscadorReactJS/static/css/main.a0826d61.css.map",
+    "main.abb10878.js.map": "/buscadorReactJS/static/js/main.abb10878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0826d61.css",
+    "static/js/main.abb10878.js"
+  ]
+}
